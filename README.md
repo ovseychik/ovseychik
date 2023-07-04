@@ -14,9 +14,9 @@
 
 I'm a beginning Android developer. 
 
-- 🛠️ Stack: <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp; Java / <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="20" height="20"/>&nbsp; Kotlin; 
+- 🛠️ Stack: <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="20" height="20"/>&nbsp; Kotlin; 
 - ◀️ Past Experience: Financial Analyst / Risk Manager in banking industry;
-- 👨‍🎓 Currently studying at Yandex Practicum, Android developer program. ⏳ ETA course completion: Aug'2023. 
+- 👨‍🎓 Currently studying at Yandex Practicum, Android developer program. ⏳ ETA course completion: Sep'2023. 
 
 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sergey_Ovseychik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-ovseychik/)
 <!--
