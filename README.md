@@ -19,6 +19,13 @@ I'm a beginning Android developer.
 - 👨‍🎓 Currently studying at Yandex Practicum, Android developer program. ⏳ ETA course completion: Nov'2023. 
 
 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sergey_Ovseychik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-ovseychik/)
+
+### Portfolio
+
+- Playlist Maker app for Android https://github.com/ovseychik/PlaylistMaker
+- Notes app for Android (Practice with MVVM pattern) https://github.com/ovseychik/NoteAppCleanArchitecture
+- Firebase Authentication App (practice with Firebase APIs) https://github.com/ovseychik/firebase-auth-practice
+
 <!--
 **ovseychik/ovseychik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
