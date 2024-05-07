@@ -12,31 +12,17 @@
 
 ### 👨‍💻 About Me : 
 
-I'm a beginning Android developer. 
+I'm a beginning developer. 
 
-- 🛠️ Stack: <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="20" height="20"/>&nbsp; Kotlin; 
+- 🛠️ Stack: <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="20" height="20"/>&nbsp; Kotlin, <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp; Java, <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="20" height="20"/>&nbsp; Spring Framework; 
 - ◀️ Past Experience: Financial Analyst / Risk Manager in banking industry;
-- 👨‍🎓 Currently studying at Yandex Practicum, Android developer program. ⏳ ETA course completion: Nov'2023. 
+- 👨‍🎓 Graduate of Yandex.Practicum, Android developer program. That's why so many <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Amdroid" width="20" height="20"/>&nbsp; Android repos on my profile.
 
 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sergey_Ovseychik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-ovseychik/)
 
-### Portfolio
+### Portfolio / Pet projects
 
-- Playlist Maker app for Android https://github.com/ovseychik/PlaylistMaker
-- Notes app for Android (Practice with MVVM pattern) https://github.com/ovseychik/NoteAppCleanArchitecture
-- Firebase Authentication App (practice with Firebase APIs) https://github.com/ovseychik/firebase-auth-practice
-
-<!--
-**ovseychik/ovseychik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Transaction service](https://github.com/ovseychik/transaction-limit-service) in Spring [RU] (practice with RESTful API service and working with third-praty APIs);
+- [Playlist Maker](https://github.com/ovseychik/PlaylistMaker) app for Android;
+- [Notes app](https://github.com/ovseychik/NoteAppCleanArchitecture) for Android (practice with MVVM pattern);
+- [Firebase Authentication](https://github.com/ovseychik/firebase-auth-practice) App (practice with Firebase APIs).
